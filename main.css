@@ -1,0 +1,11 @@
+.cart {
+  border: solid 1px black;
+  padding: 20px;
+  width: 1000px;
+}
+.cart__home {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 400;
+  color: black;
+}
